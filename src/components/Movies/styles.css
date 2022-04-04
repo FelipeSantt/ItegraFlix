@@ -1,0 +1,24 @@
+*{
+    background-color: #2D2B2B;
+}
+.Movies-main {
+    margin-top: 2em;
+    /* UI Properties */
+    background: var(--unnamed-color-2d2b2b) 0% 0% no-repeat padding-box;
+    background: #2D2B2B 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.Movies-subtitle {
+    top: 122px;
+    left: 106px;
+    width: 127px;
+    height: 37px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 28px/37px var(--unnamed-font-family-roboto);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-e7e4e4);
+    text-align: left;
+    font: normal normal bold 28px/37px Roboto;
+    letter-spacing: 0px;
+    color: #E7E4E4;
+    opacity: 1;
+}
