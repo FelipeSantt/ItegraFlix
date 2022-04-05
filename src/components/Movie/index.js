@@ -32,12 +32,12 @@ export default function Movie({ movie }) {
         className="Movie-card"
         data-cy="movie-item">
         <Row>
-          <Link to={`/details/${id}`}>
+          <Link to={`/itegraFlix/details/${id}`}>
             <Image size={SIZE.SMALL} path={posterPath} title={title} />
           </Link>
         </Row>
         <Row>
-          <Link to={`/details/${id}`}>
+          <Link to={`/itegraFlix/details/${id}`}>
             <span className="Movie-title">{title_limit}</span>
           </Link>
         </Row>  
