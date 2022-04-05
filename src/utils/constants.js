@@ -1,8 +1,8 @@
 export default {
   APP: {
     PATH: {
-      HOME: '/',
-      DETAILS: '/details/:id',
+      HOME: '/itegraFlix',
+      DETAILS: '/itegraFlix/details/:id',
     },
   },
   API: {
