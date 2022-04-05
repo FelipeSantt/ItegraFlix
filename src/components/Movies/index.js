@@ -12,7 +12,7 @@ export default function Movies({ movies }) {
     <Container className="Movies-main">
       <h2 className='Movies-subtitle'>Populares</h2>
       <Row>
-        {movies.map((movie) => <Movie key={movie.id} movie={movie} />)}
+        {movies.slice(0,10).map((movie) => <Movie key={movie.id} movie={movie} />)}
       </Row>
     </Container>
   );

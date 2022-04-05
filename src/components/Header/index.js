@@ -8,12 +8,13 @@ export default function Header() {
     <nav className="Header-main navbar">
       <div className="container-fluid">
         <div className="navbar-header">
-          <Link to="/" >
+          <Link to="/itegraFlix/" >
             <img src={logo} className="Header-logo" alt="ItegraFlix" />
           </Link>
           <label className='Header-title'>ITEGRAFLIX</label>
         </div>
       </div>
+      <hr/>
     </nav>
   );
 }

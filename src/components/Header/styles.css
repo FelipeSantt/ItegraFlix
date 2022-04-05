@@ -36,7 +36,11 @@
     color: #FB8200;
     opacity: 1;
 }
+.Header-main hr{
+    width: 100%;
+    border-top: 5px solid #FB8200;
 
+}
 /* Small devices (tablets, 768px and up) 
 @media (min-width: 768px) {
     .Header-main {
