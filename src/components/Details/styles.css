@@ -16,6 +16,9 @@ opacity: 1;
     color: #E7E4E4;
     opacity: 1;
 }
+.figure-img{
+    border-radius: 15px;
+}
 
 .Details-body {
     text-align: left;
