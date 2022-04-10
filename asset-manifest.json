@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/itegraFlix/static/css/main.bd77cc8a.css",
-    "main.js": "/itegraFlix/static/js/main.1804989c.js",
+    "main.css": "/itegraFlix/static/css/main.fbe9d4c5.css",
+    "main.js": "/itegraFlix/static/js/main.e74d9201.js",
     "index.html": "/itegraFlix/index.html",
-    "main.bd77cc8a.css.map": "/itegraFlix/static/css/main.bd77cc8a.css.map",
-    "main.1804989c.js.map": "/itegraFlix/static/js/main.1804989c.js.map"
+    "main.fbe9d4c5.css.map": "/itegraFlix/static/css/main.fbe9d4c5.css.map",
+    "main.e74d9201.js.map": "/itegraFlix/static/js/main.e74d9201.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd77cc8a.css",
-    "static/js/main.1804989c.js"
+    "static/css/main.fbe9d4c5.css",
+    "static/js/main.e74d9201.js"
   ]
 }
