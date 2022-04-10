@@ -1,20 +1,18 @@
 .Header-main {
     /* Layout Properties */
-    margin-top: -15px;
-   margin-left: -25px;
+    top: -1px;
+    left: 0px;
     /* UI Properties */
     background: var(--unnamed-color-2d2b2b) 0% 0% no-repeat padding-box;
     background: #2D2B2B 0% 0% no-repeat padding-box;
     opacity: 1;
-    overflow: hidden;
-    position: fixed;
 }
 
 
 .Header-logo {
-    /* Layout Properties */
     margin-left: 45px;
-    margin-top: -25px;
+    /* Layout Properties */
+    top: 15px;
     left: 94px;
     width: 54px;
     height: 69px;
@@ -23,9 +21,9 @@
 }
 
 .Header-title {
+    margin-left: 20px;
     /* Layout Properties */
-    margin-left: 10px;
-    margin-top: 26px;
+    top: 26px;
     width: 198px;
     height: 48px;
     /* UI Properties */
@@ -40,7 +38,7 @@
 }
 .Header-main hr{
     width: 100%;
-    border-top: 3px solid #FB8200;
+    border-top: 5px solid #FB8200;
 
 }
 /* Small devices (tablets, 768px and up) 

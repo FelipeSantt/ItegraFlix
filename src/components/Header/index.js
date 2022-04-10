@@ -10,8 +10,8 @@ export default function Header() {
         <div className="navbar-header">
           <Link to="/itegraFlix/" >
             <img src={logo} className="Header-logo" alt="ItegraFlix" />
-          <label className='Header-title'>ITEGRAFLIX</label>
           </Link>
+          <label className='Header-title'>ITEGRAFLIX</label>
         </div>
       </div>
       <hr/>

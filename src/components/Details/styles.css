@@ -24,7 +24,7 @@ opacity: 1;
 }
 
 .Details-body a {
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .Details-overview p {
@@ -40,7 +40,8 @@ opacity: 1;
 
 .Details-body h2 {
     font-size: 1.3em;
-    font-weight: 500;}
+    font-weight: 500;
+}
 
 .Details-genres label, .Details-genres h2 {
     padding-right: 10px;
@@ -63,7 +64,7 @@ color: var(--unnamed-color-919191);
 text-align: left;
 font: normal normal normal 20px/26px Roboto;
 letter-spacing: 0px;
-color: rgb(250, 76, 76);
+color: #919191;
 opacity: 1;
 }
 
