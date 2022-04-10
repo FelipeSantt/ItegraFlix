@@ -10,6 +10,7 @@
 
 .Movie-card img {
     max-height: 278px;
+    border-radius: 10px;
 }
 
 .Movie-body {
@@ -63,4 +64,7 @@
     font: normal normal normal 12px/16px Roboto;
 letter-spacing: 0px;
 color: #919191;
+}
+.row a{
+    text-decoration: none;
 }

@@ -1,6 +1,6 @@
 .Header-main {
     /* Layout Properties */
-    top: -1px;
+   margin-top: -10px;
     left: 0px;
     /* UI Properties */
     background: var(--unnamed-color-2d2b2b) 0% 0% no-repeat padding-box;
@@ -10,10 +10,10 @@
 
 
 .Header-logo {
-    margin-left: 45px;
     /* Layout Properties */
-    top: 15px;
-    left: 94px;
+
+    margin-top: -25px;
+    margin-left: 5px;
     width: 54px;
     height: 69px;
     /* UI Properties */
@@ -21,9 +21,9 @@
 }
 
 .Header-title {
-    margin-left: 20px;
     /* Layout Properties */
-    top: 26px;
+    margin-left: 5px;
+    margin-top: 26px;
     width: 198px;
     height: 48px;
     /* UI Properties */
@@ -38,7 +38,7 @@
 }
 .Header-main hr{
     width: 100%;
-    border-top: 5px solid #FB8200;
+    border-top: 3px solid #FB8200;
 
 }
 /* Small devices (tablets, 768px and up) 
